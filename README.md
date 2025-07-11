@@ -71,20 +71,6 @@ This application is a comprehensive example of full-stack development. It offers
 
 ---
 
-## 📜 **License**
-
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute the code with proper attribution.
-
----
-
-## 📨 **Contact**
-
-For any questions, feedback, or collaboration opportunities, feel free to reach out:
-
-- **Prabhat Kumar**  
-  - LinkedIn: [Prabhat Kumar](https://www.linkedin.com/in/prabhat-kumar-1260a5259)  
-  - Email: [prabhatsharma84226@gmail.com](mailto:prabhatsharma84226@gmail.com)  
-
 ---
 
 ## 🌟 **Acknowledgments**
